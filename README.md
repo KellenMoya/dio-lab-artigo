@@ -3,6 +3,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 > **Criado** por inteligencia Artificial e revisado por um humano.
 
+[Leia o Artigo](https://github.com/KellenMoya/dio-lab-artigo/blob/main/Vue%20-%20Routes.pdf)
+
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
